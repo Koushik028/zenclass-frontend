@@ -1,7 +1,5 @@
 # zen class student dashboard
 
-I developed an exceptional student dashboard for ZEN Class, providing students with a comprehensive platform for managing their academic journey. With this dashboard, students can effortlessly participate in classes, submit assignments, seek assistance for their queries, and request leaves. This tool aims to enhance the educational experience and empower students to succeed in their studies.
-
 # steps to Register
 
 1) Click Sign-up
